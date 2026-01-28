@@ -70,6 +70,9 @@
     <a href="https://nodejs.org" target="_blank">
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" style="padding: 5px;" />
     </a>
+    <a href="https://nestjs.com" target="_blank">
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" style="padding: 5px;" />
+</a>
   </div>
   
   <div style="height: 20%; padding: 5px;">
