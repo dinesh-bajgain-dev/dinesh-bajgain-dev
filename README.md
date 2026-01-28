@@ -60,6 +60,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" style="padding: 5px;" />
     </a>
+    <a href="https://nextjs.org" target="_blank">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" style="padding: 5px;" />
+</a>
   </div>
   
   <div style="height: 20%; padding: 5px;">
