@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/dinesh_bajgain/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mr-bajgain)
-  [![Follow on X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Mr_Bajgain)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/dinesh_bajgain)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dinesh-bajgain)
+  [![Follow on X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/dinesh__bajgain)
   [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dinesh.bazgain@gmail.com)
   [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/718072337970364476)
 
@@ -131,7 +131,7 @@
 ---
 
 ### 🔥 Featured Projects
-- 🚀 [**Face Recognition System**](https://github.com/dinesh-bazgain/faceRecognition_attendance) - **GUI-based attendance system using AI**
+- 🚀 [**Face Recognition System**](https://github.com/dinesh-bajgain-dev/faceRecognition_attendance) - **GUI-based attendance system using AI**
 - 🔥 [**VedaSamvaad - वेदसंवाद**](https://vedasamvaad-frontend.onrender.com/) - **A real time chatting web app.**
 
 ---
@@ -140,13 +140,13 @@
 ### 💊 GitHub Stats
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px; color: white;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-bazgain&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-bajgain-dev&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350"/>
   
   <a href="https://git.io/streak-stats" style="text-decoration: none; outline: none; color: white;">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=dinesh-bazgain&theme=shadow_red&hide_border=false&card_width=350" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=dinesh-bajgain-dev&theme=shadow_red&hide_border=false&card_width=350" alt="GitHub Streak"/>
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-bazgain&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-bajgain-dev&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" width="350"/>
 
 </div>
 
@@ -155,13 +155,13 @@
 
 ### 🔗 Connect with Me
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://www.linkedin.com/in/mr-bajgain/">
+  <a href="https://www.linkedin.com/in/dinesh-bajgain/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="https://x.com/Mr_Bajgain">
+  <a href="https://x.com/dinesh__bajgain">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter"/>
   </a>
-  <a href="https://medium.com/@dinesh.bajgain">
+  <a href="https://medium.com/@dinesh-bajgain">
     <img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium"/>
   </a>
   <a href="mailto:dinesh.bazgain@gmail.com">
