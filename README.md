@@ -8,7 +8,8 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dinesh-bajgain)
   [![Follow on X](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/dinesh__bajgain)
   [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dinesh.bazgain@gmail.com)
-  [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/718072337970364476)
+  [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://medium.com/@dinesh-bajgain)
+  [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://discordapp.com/users/718072337970364476)
 
   
 </div>
