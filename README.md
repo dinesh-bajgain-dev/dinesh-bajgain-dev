@@ -141,7 +141,7 @@
 ### 💊 GitHub Stats
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px; color: white;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-bajgain-dev&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-bajgain-dev&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_bust=12345" width="350"/>
   
   <a href="https://git.io/streak-stats" style="text-decoration: none; outline: none; color: white;">
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=dinesh-bajgain-dev&theme=shadow_red&hide_border=false&card_width=350" alt="GitHub Streak"/>
