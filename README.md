@@ -26,7 +26,7 @@
 - 🏎️ Currently **On the Porshess to master AI and ride in style!**
 - 🌱 Learning **Deep Learning & NLP**
 - 🎯 Goal: **Become an AI Expert**
-- 🇳🇵 From **Nepal** (Lalitpur)
+- 🇳🇵 From **Nepal**
       
   </td>
     <td width="45%" style="border:none;">
